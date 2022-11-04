@@ -1,1 +1,1 @@
-# f-2-vik
+# mentoring-simple-webpack-starter
