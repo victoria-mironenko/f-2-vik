@@ -1,10 +1,14 @@
 button {
     height: 100px;
     margin-top: 100px;
+    margin-left: 40px;
     width: 200px;
     font-size: 80px;
+    box-shadow: 4px -4px 5px gray;
+    border-radius: 20px;
     cursor: pointer;
 }
-.active {
-    background: blue;
+span {
+    font-size: 70px;
+    margin-left: 40px;
 }
